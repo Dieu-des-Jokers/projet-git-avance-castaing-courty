@@ -4,3 +4,7 @@ func dalmatien() string {
 	return "Je suis un dalmatien, waf waf !"
 }
 
+func bergerAllemandallemand() string {
+	return "Je suis un berger allemand allemand, wouf wouf !"
+}
+
